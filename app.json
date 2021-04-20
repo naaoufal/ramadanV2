@@ -1,0 +1,12 @@
+{
+  "name": "ramadanV2",
+  "displayName": "ramadanV2",
+  "expo": {
+    "name": "ramadanV2",
+    "slug": "ramadanV2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
